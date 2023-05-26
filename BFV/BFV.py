@@ -76,7 +76,7 @@ class BFV:
         C = (a,b)
         return C
 
-    def decrypt(self, C): # C is a couple of elements in Rq
+    def decrypt(self, C): # C is a couple or triple of elements in Rq
         if len(C) == 2:
             a, b = C    
             delta = self.p/self.q
