@@ -1,2 +1,2 @@
 # FHE
-FHE cryptosystems
+FHE schemes
