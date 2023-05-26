@@ -1,2 +1,2 @@
 # FHE
-Python library for FHE algorithms
+FHE cryptosystems
