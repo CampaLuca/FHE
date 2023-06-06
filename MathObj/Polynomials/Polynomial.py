@@ -1,6 +1,6 @@
 from random import randint,gauss
 from sympy import *
-from ntt import *
+from ..Number.NTT import *
 
 
 class Polynomial:

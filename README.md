@@ -1,2 +1,2 @@
 # FHE
-FHE schemes
+Python library for FHE algorithms

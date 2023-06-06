@@ -1,5 +1,3 @@
-from random import randint, gauss
-
 def binary_encode_message(message: int, N_bits: int):
     bit_list = []
     for i in range(N_bits):

@@ -1,4 +1,7 @@
-from ntt import *
+import sys
+sys.path.insert(0, '../')
+
+from MathObj.Number.NTT import *
 
 VERBOSE = False
 FINAL_DEGREE = 1  # Do not change it
