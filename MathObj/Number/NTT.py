@@ -1,3 +1,6 @@
+##### Credits to: Erkay Savas from Sabanci University
+
+
 import math
 import time
 import random
